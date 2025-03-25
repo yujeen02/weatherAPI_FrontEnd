@@ -7,27 +7,17 @@
 
 ## 🚀 주요 기능
 
-### 메인화면
+### 메인화면 (서울 시청 기준)
 
-![Admin Page](https://github.com/user-attachments/assets/7e749cce-21dd-4214-9880-960ff56217a9)
+![Image](https://github.com/user-attachments/assets/65c85330-4e27-46ca-bedb-fe4db2184287)
 
-📌 **유효성 검사**
-![Validation](https://github.com/user-attachments/assets/86523bc2-d94d-47ba-95d3-658aa8659415)
+### 네비게이션 바 열려있을 때 (서울 시청 기준)
 
-📌 **저장 버튼 클릭 시**
-![Save](https://github.com/user-attachments/assets/fdab0466-6a06-4dc2-98fb-89a779071ff7)
-
-📌 **내용 수정**
-![Edit](https://github.com/user-attachments/assets/4e759571-f153-4b63-b48f-3afd23bf0254)
-
-📌 **CSV 다운로드**
-![CSV Download](https://github.com/user-attachments/assets/fd9328b8-18f6-4999-8bb3-5c320b56a62c)
+![Image](https://github.com/user-attachments/assets/34750399-e034-4021-8f25-2bcf423f04bf)
 
 ---
 
-### 🏠 메인 페이지 (영화 목록)
-- 페이지네이션 적용 📄
-- 영화 목록을 쉽게 탐색 가능 🔍
+### 지도에 직접 좌표 설정
 
 ![Main Page](https://github.com/user-attachments/assets/384dfab7-b55f-42d9-a773-d9b8a0d30d29)
 

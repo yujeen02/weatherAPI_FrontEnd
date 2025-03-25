@@ -86,7 +86,7 @@
 
 이 프로젝트의 백엔드는 NestJS 기반으로 구축되어 있으며, **실시간 날씨 데이터 요청 및 DB 저장 기능**을 포함하고 있습니다.
 
-👉 **백엔드 레포지토리**: [weather-server-nest](https://github.com/yujeen02/weatherAPI_BackEnd)
+👉 **백엔드 레포지토리**: [weather-server](https://github.com/yujeen02/weatherAPI_BackEnd)
 
 
 ---

@@ -9,13 +9,13 @@
 
 ### ✅ 초기 메인 화면 (서울시청 기준)
 
-![서울 시청 메인](https://github.com/user-attachments/assets/65c85330-4e27-46ca-bedb-fe4db2184287)
 
+![Image](https://github.com/user-attachments/assets/03a1d056-a58b-4746-9606-f8332d82a1ea)
 ---
 
 ### ✅ 네비게이션 바가 열려 있을 때
 
-![네비게이션 열림](https://github.com/user-attachments/assets/34750399-e034-4021-8f25-2bcf423f04bf)
+![Image](https://github.com/user-attachments/assets/0d57ac45-10d9-4751-bcc4-b5b511a2e935)
 
 - 장소명을 입력하고 검색하면 날씨 정보를 바로 확인할 수 있습니다.
 

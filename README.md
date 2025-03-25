@@ -17,7 +17,6 @@
 
 ![Image](https://github.com/user-attachments/assets/0d57ac45-10d9-4751-bcc4-b5b511a2e935)
 
-- 장소명을 입력하고 검색하면 날씨 정보를 바로 확인할 수 있습니다.
 
 ---
 

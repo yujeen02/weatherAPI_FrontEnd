@@ -48,10 +48,37 @@
 
 ## 🛠 기술 스택
 
-- **Frontend**: React, React-Kakao-Maps-SDK, Ant Design
-- **지도 API**: Kakao Maps
-- **날씨 API**: OpenWeatherMap API
-- **기타**: Axios, CSS Modules
+
+<div align="center">
+
+  <h2>프론트엔드</h2>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/antdesign-%230170FF.svg?&style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design Badge" />
+  <img src="https://img.shields.io/badge/kakao%20map%20api-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" alt="Kakao Map API Badge" />
+
+  <h2>백엔드</h2>
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
+  <img src="https://img.shields.io/badge/typeorm-FCD12A?style=for-the-badge&logo=typeorm&logoColor=black" alt="TypeORM Badge" />
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" />
+
+  <h2>데이터베이스</h2>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+
+  <h2>외부 API</h2>
+  <img src="https://img.shields.io/badge/openweathermap-FF6C00?style=for-the-badge&logo=openweathermap&logoColor=white" alt="OpenWeatherMap Badge" />
+  <img src="https://img.shields.io/badge/kakao%20maps-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" alt="Kakao Map API Badge" />
+
+  <h2>개발 도구</h2>
+  <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
+  <img src="https://img.shields.io/badge/mysql%20workbench-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench Badge" />
+
+  <h2>버전 관리</h2>
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+
+</div>
 
 ---
 

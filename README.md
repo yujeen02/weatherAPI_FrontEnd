@@ -58,7 +58,6 @@
 
   <h2>백엔드</h2>
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge" />
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
   <img src="https://img.shields.io/badge/typeorm-FCD12A?style=for-the-badge&logo=typeorm&logoColor=black" alt="TypeORM Badge" />
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" />
 
